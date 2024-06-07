@@ -1,4 +1,4 @@
-.idea/
-.dart_tool/
-build/
+.idea
+.dart_tool
 pubspec.lock
+build
